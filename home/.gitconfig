@@ -1,3 +1,5 @@
 [user]
 	name = Caroline Wilgar
 	email = caroline.wilgar@roli.com
+[push]
+	default = simple
