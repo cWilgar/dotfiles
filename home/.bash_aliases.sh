@@ -98,3 +98,5 @@ function photo_stream() {
 }
 
 alias i="echo You\'re already in insert mode, you numpty."
+
+alias subl="open -a 'Sublime Text 2'"
